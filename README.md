@@ -1,7 +1,7 @@
 ### This is my Portfolio
 ![Screenshot (64)](https://github.com/rajaec/Portfolio/assets/118007988/efe7cc30-6fd4-4bcb-a887-57ef5a009bbd)
 
-##Home page
+###Home page
  → Home page of the portfolio it can show acadmic crediants & skills.
 ![Screenshot (65)](https://github.com/rajaec/Portfolio/assets/118007988/2f9beb40-118c-4c2b-8190-3f774eb2617a)
 ##Certification & internship
