@@ -1,0 +1,131 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    color:whitesmoke;
+    background-color: #355852;
+}
+.header{
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    padding:20px 20px;
+    background:transparent;
+    justify-content: space-between;
+    align-items: center;
+    z-index:100;
+}
+.logo{
+    position: relative;
+    font-size:30px;
+    color:#020611;
+    text-decoration: none;
+    font-weight:600l;
+}
+.navbar a {           
+    display: inline-block;
+    font-size:28px;
+    color:#f9004d;
+    text-decoration: none;
+    font-weight:500;
+    margin-left:150px;
+    transition: 0.3s;
+    padding: 3px 2px;
+    text-transform: capitalize;
+}
+.navbar a:hover{
+    color:#aef;
+}
+.home {
+ position:relative;
+ width:100%;
+ justify-content: space-between;
+ height:100vh;
+ background: url(purple\ Illustrated\ mountain\ Desktop\ downloag.jpg) no-repeat;
+ background-size: cover;
+ background-position: center;
+ display: flex;
+ align-items: center;
+ padding: 70px 18% 0;
+
+}
+.home-content {
+    max-width:600px;
+
+}
+.home-content img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 750px;
+    margin-top: -200px;
+    border-top-color: #f9004d;
+    border-inline-end-style: inset;
+    
+}
+
+
+.home-content h3{
+    font-size: 32px;
+    font-weight:700;
+
+
+}
+
+.home-content h1 {
+    font-size: 56px;
+    font-weight:700;
+    margin: -3px 0;
+}
+.home-content h1 {
+    font-size: 56px;
+    font-weight: 700;;
+    margin: -3px 0;
+
+}
+.home-content p {
+    font-size: 20px;
+
+}
+.home-scl a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid rgb(0, 0, 255);
+    border-radius: 50%;
+    color: #0ef;
+    text-decoration: none;
+    margin: 30px 15px 30px 0;
+
+
+
+}
+.home-scl a:hover {
+    background-color: #0ef;
+    color: #081b29;
+    box-shadow: 0 0 20px #0ef;
+
+}
+.btn-box {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #0ef;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #081b29;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 400;
+
+}
+.btn-box:hover {
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan,0 0 200px cyan;
+}

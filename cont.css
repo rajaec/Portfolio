@@ -1,0 +1,47 @@
+body {
+    
+    padding: 0%;
+    margin:0%;
+    background-color: rgb(34, 14, 14);
+    height: 100vh;
+    justify-content: space-around;
+
+    
+}
+h1 {
+    
+    font-size: 35px;
+    color:white;
+    margin-left:100px ;
+    align-items: center;
+    text-transform: capitalize;
+    display: inline-block;
+    font-weight:500;
+
+    
+}
+h2 {
+    font-size: 32px;
+    color:#f9004d;
+    margin-left: 50px;
+    margin-top: -30px;
+
+}
+p {
+    font-size: 28px;
+    margin-left: 30px;
+}
+.add {
+    height: 1000px;
+    width:1000px;
+}
+.add h2{
+    margin-top: 40px;
+}
+.add p{
+    margin-top:30px;
+    color: whitesmoke;
+}
+
+
+    
